@@ -1,0 +1,386 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "Oynamak"
+		},
+		{
+			"key": "BoostsButton",
+			"value": "Geliştirmeler"
+		},
+		{
+		
+			"key": "ExitButton",
+			"value": "Çıkmak"
+		},
+		{
+			"key": "SettingsTitle",
+			"value": "Ayarlar"
+		},
+
+
+		{
+			"key": "Yes",
+			"value": "Evet"
+		},
+		{
+			"key": "No",
+			"value": "Hayır"
+		},
+		
+		
+		{
+			"key": "LevelsTitle",
+			"value": "Bir seviye seçin"
+		},
+		{
+			"key": "Location 1",
+			"value": "Konum: Fabrika"
+		},
+		{
+			"key": "Location 2",
+			"value": "Konum: Bahçe"
+		},
+		{
+			"key": "Location 3",
+			"value": "Konum: Kar Labirenti"
+		},
+
+
+		{
+			"key": "Tools",
+			"value": "Aletler"
+		},
+		{
+			"key": "StunGun",
+			"value": "Yeni alet: şok tabancası"
+		},
+		{
+			"key": "BuyStunGun",
+			"value": "Oluşturmak için 1"
+		},
+		{
+			"key": "WhileConstruction",
+			"value": "Yeni konstrüksiyon: döngü <while ()>"
+		},
+		{
+			"key": "BuyWhileConstruction",
+			"value": "Keşfedin için 2"
+		},
+		{
+			"key": "Customization",
+			"value": "Özelleştirme"
+		},
+		{
+			"key": "BuyCustomize",
+			"value": "Oluşturmak için 3"
+		},
+		{
+			"key": "CustomizationLock",
+			"value": "Win'in özelleştirme kilidini açmak için ilk 4 seviyeyi tamamlayın."
+		},
+		
+		
+		{
+			"key": "HelpSetting",
+			"value": "Kontrol panelindeki araç ipucu düğmesi"
+		},
+		{
+			"key": "FirstGuideSetting",
+			"value": "Öğreticiyi yalnızca 1 kez seviyeye göster"
+		},
+		{
+			"key": "SoundSetting",
+			"value": "Ses"
+		},
+		
+		
+		{
+			"key": "GuideTitle",
+			"value": "Kılavuz"
+		},
+		{
+			"key": "GuideNavHelp",
+			"value": "Hareket etmek için panelin sağ veya sol tarafına tıklayın"
+		},
+		
+		
+		{
+			"key": "QuitTitle",
+			"value": "Oyundan çıkmak istediğinizden emin misiniz?"
+		},
+		
+		{
+			"key": "AdditionalPanelTitle",
+			"value": "Ek fonksyonlar"
+		},
+		
+		
+		{
+			"key": "DebuggerTitle",
+			"value": "Hata ayıklayıcı"
+		},
+		{
+			"key": "EmptyDebug",
+			"value": "Sistem mesajı yok"
+		},
+		{
+			"key": "Target",
+			"value": "Hedef: çıkışa ulaşmak"
+		},
+		
+		
+		{
+			"key": "Reward",
+			"value": "Seviye bulundu:"
+		},
+		{
+			"key": "Unavailable Reward",
+			"value": "Ödül zaten toplanmıştır"
+		},
+
+
+		{
+			"key": "Complete",
+			"value": "Seviye geçildi"
+		},
+
+
+		{
+			"key": "Joystick Command Generation",
+			"value": "Yalnızca kod oluştur"
+		},
+		
+		
+		{
+			"key": "Level1",
+			"value": "Seviye 1"
+		},
+		{
+			"key": "Level2",
+			"value": "Seviye 2"
+		},
+		{
+			"key": "Level3",
+			"value": "Seviye 3"
+		},
+		{
+			"key": "Level4",
+			"value": "Seviye 4"
+		},
+		{
+			"key": "Level5",
+			"value": "Seviye 5"
+		},
+		{
+			"key": "Level6",
+			"value": "Seviye 6"
+		},
+		{
+			"key": "Level7",
+			"value": "Seviye 7"
+		},
+		{
+			"key": "Level8",
+			"value": "Seviye 8"
+		},
+		{
+			"key": "Level9",
+			"value": "Seviye 9"
+		},
+		{
+			"key": "Level10",
+			"value": "Seviye 10"
+		},
+		{
+			"key": "Level11",
+			"value": "Seviye 11"
+		},
+		{
+			"key": "Level12",
+			"value": "Seviye 12"
+		},
+		{
+			"key": "Level13",
+			"value": "Seviye 13"
+		},
+		{
+			"key": "Level14",
+			"value": "Seviye 14"
+		},
+
+		
+		{
+			"key": "Level1 Guide 1",
+			"value": "Merhaba! Benim adım Win, çıkışa gitmeme yardım eder misin?"
+		},
+		{
+			"key": "Level1 Answer 1",
+			"value": "Tamam, ama ne yapmalı?"
+		},
+		{
+			"key": "Level1 Guide 2",
+			"value": "Altta, kodu başlatıp durdurabileceğiniz bir <color=red>kontrol paneli</color> vardır. Ayrıca, hemen altında komutları girmeniz gereken bir <color=red>terminal</color> vardır."
+		},
+		{
+			"key": "Level1 Answer 2",
+			"value": "Anladım, oraya ne yazmalıyım?"
+		},
+		{
+			"key": "Level1 Guide 3",
+			"value": "Uygun komutları kullanın: <color=red><right></color>, <color=red><left></color>, <color=red><up></color> ve <color=red><down></color> beni kontrol etmek için. Kontrol panelinde beni de kontrol edebileceğiniz bir <color=red>joystick</color> çağrı butonu var ama şarjı sadece birkaç seviye için yeterli"
+		},
+		{
+			"key": "Level1 Answer 3",
+			"value": "Anladım"
+		},
+		{
+			"key": "Level1 Guide 4",
+			"value": "Kontrol panelinin sol üst tarafında bir ipucu açmak için bir düğme vardır."
+		},
+		{
+			"key": "Level1 Guide 5",
+			"value": "Menüye dönebileceğiniz, seviyeyi yeniden yükleyebileceğiniz veya tam kılavuzu açabileceğiniz ek işlevler için düğme biraz daha aşağıdadır."
+		},
+
+		
+		{
+			"key": "Level2 Guide 1",
+			"value": "Zaten bir sonraki seviyedeyiz ve şimdiden <color=red>mikroçipi</color> görüyorum! Bu, bana yeni yetenekler ekleyebileceğiniz değerli bir kaynak! Ama engeller var..."
+		},
+		{
+			"key": "Level2 Answer 1",
+			"value": "Daha dikkatli yönetmek gerekiyor"
+		},
+		{
+			"key": "Level2 Guide 2",
+			"value": "Basit komutlara ek olarak yapılar oluşturabilirsiniz. Oluşturmak için önce yapı türünü (<color=red>if</color>) bildirmeniz gerekir. Ardından, parantez içinde <color=red>yapı koşulunu</color> yazmanız gerekir: önce yön belirlenir (<color=red><right>, <left>, <above></color> veya <color=red><below></color>), sonra nesne (<color=red><obstacle></color>)."
+		},
+		{
+			"key": "Level2 Guide 3",
+			"value": "Bir yapı oluşturduktan sonra, yalnızca koşul yerine getirildiğinde yürütülecek olan komutları içine yazabilirsiniz. Yapımın sonunu işaretlemek için içine ihtiyacınız olan her şeyi yazdıktan sonra <color=red><end></color> komutunu yazmanız gerekiyor."
+		},
+		{
+			"key": "Level2 Answer 3",
+			"value": "Hmm..."
+		},
+		{
+			"key": "Level2 Guide 4",
+			"value": "Örnek: \n<color=orange>if (above obstacle)\nright\nend</color>"
+		},
+		{
+			"key": "Level2 Answer 4",
+			"value": "Kolay görünüyor, deneyeceğim"
+		},
+		
+		
+		{
+			"key": "Level3 Guide 1",
+			"value": "Bu robot arkadaş canlısı görünmüyor, en iyisi ona yaklaşmamak. Bunu yapmak için, yapım koşulunda <color=red><enemy></color> yerine <color=red><obstacle></color> nesnesini girebilirsiniz."
+		},
+		{
+		
+			"key": "Level3 Guide 2",
+			"value": "Ayrıca, bir düşman robotu yolu kapatıyorsa, o zaman ona <color=red><attack></color> komutuyla saldırabilir ve nereye vuracağımı yönü veya joystick'teki saldırı düğmesiyle belirtebilirim. Kullanmak için, <color=red><Geliştirmeler></color> bölümünde şok tabancasını incelemeniz gerekir. Komut örneği: <color=orange>attack right</color>"
+		},
+
+
+		{
+			"key": "Level4 Guide 1",
+			"value": "Döngülerin ne olduğunu öğrenmenin zamanı geldi. Kodda kaç komutun tekrarlandığını ve joystick'in her şeyi nasıl basitleştirdiğini zaten gördünüz, ancak yakında şarj sona erecek. <color=red><while></color> döngüsü de <color=red><Geliştirmeler></color> altında incelenmelidir."
+		},
+		{
+			"key": "Level4 Guide 2",
+			"value": "<color=red><while></color> türü, koşul sağlanana kadar çalışan bir döngüdür.\n<color=red>if</color> yapısında olduğu gibi, yalnızca bu yapı komutları birden çok kez çalıştırabilir \nÖrnek 1:\n<color=orange>(above obstacle)\nright\nend</color>"
+		},
+		{
+			"key": "Level4 Guide 3",
+			"value": "Komutları süresiz olarak yürütecek bir döngü de yazabilirsiniz. Bunu yapmak için, koşula <color=red><robot enabled></color> girin.\nÖrnek 2:\n<color=orange>while (robot enabled)\nright\nend</color>"
+		},
+
+
+		{
+			"key": "Level5 Guide 1",
+			"value": "İnşaat koşullarında olumsuz bir koşul yazabilirsiniz. Yani, örneğin <color=red><if (left obstacle)></color> yerine <color=red><if (left no obstacle)></color> yazabilirsiniz. Ve robot, bu durumda, bunun yerine solda bir engel olup olmadığını kontrol edecek, aksine, yokluğunu kontrol edecektir."
+		},
+		{
+			"key": "Level5 Guide 2",
+			"value": "Ayrıca, <color=red><&></color> özel karakterini kullanarak birden fazla koşulu olan yapılar da oluşturabilirsiniz. Bununla sonsuz sayıda koşulu birleştirebilirsiniz.\nÖrnek 1:\n<color=orange>while (left obstacle&right no obstacle)\nright\ndown\nend\n</color>"
+		},
+		{
+			"key": "Level5 Guide 3",
+			"value": "Bu işlevleri kullanarak, yapılar için koşulları esnek bir şekilde ayarlayabilirsiniz. Ah, ve evet, joystick'in pili bitti, kodu manuel olarak yazmanın zamanı geldi (geçmişe ait bir şeyi unuttuysanız <color=red><Kılavuz></color>'a bakın)"
+		},
+
+
+		{
+			"key": "Level6 Guide 1",
+			"value": "Fabrikadan çıktık ve bir tür bahçeye girdik. Burada da düşman robotlar var, halledebilir misin?"
+		},
+		{
+			"key": "Level6 Answer 1",
+			"value": "Tabii ki"
+		},
+
+
+		{
+			"key": "Level7 Guide 1",
+			"value": "Vay, bu ne kadar geniş. Kontrol paneli tüm görüşü engeller! Terminali gizlemek için kontrol panelinin sağ köşesindeki düğmeye tıklayın"
+		},
+
+
+		{
+			"key": "Level11 Guide 1",
+			"value": "Harita daha da büyüdü! Haritada hareket etmek için ekranı kaydırın."
+		},
+
+
+
+
+		{
+			"key": "CONDITION_OBJECT_NOT_EXIST",
+			"value": "Hata bulundu: <{0}> nesnesi ({1}) satırında durumda, mevcut değil. Belki de <obstacle> veya <enemy> demek istediniz"
+		},
+
+		{
+			"key": "CONDITION_NOT_CORRECT",
+			"value": "Hata bulundu: ({0}) satırındaki koşul bozuk"
+		},
+		{
+			"key": "CONSTRUCTION_END_NOT_FINDED",
+			"value": "Satırdaki yapıdan sonra <end> bekleniyor ({0})"
+		},
+		{
+			"key": "CONSTRUCTION_LINK_DOES_NOT_EXIST",
+			"value": "({0}) satırındaki yapının, önceki yapıyla algoritmik bir bağlantısı yoktur."
+		},
+		{
+			"key": "COMMAND_DOES_NOT_EXIST",
+			"value": "Hata bulundu: <{0}> komutu ({1}) satırında mevcut değil. Zorlukla karşılaşırsanız, lütfen <Kılavuz>'a bakın."
+		},
+		{
+			"key": "ROBOT_BROKE",
+			"value": "Kodu yürütürken Vin bir engele çarptı. Engeli atlamak için bir <if (<direction> obstacle)> yapısı ve bunun içinde bir kod bloğu oluşturabilirsiniz. Yapının sonuna <end> eklemeyi unutmayın. Daha fazla bilgi için lütfen <Kılavuz>'a bakın."
+		},
+		{
+			"key": "CODE_COMPLETE_BUT_TARGET_NOT_FINISH",
+			"value": "Program başarıyla tamamlandı, ancak nihai hedefe ulaşılamadı"
+		},
+		{
+			"key": "CODE_AND_TARGET_COMPLETE",
+			"value": "Program ve hedef başarıyla tamamlandı"
+		},
+		{
+			"key": "COMMAND_OR_CONSTRUCTION_NOT_PURCHASED",
+			"value": "Komut veya yapı incelenmemiştir. İlgili aracı öğrenmek için <Geliştirmeler> sekmesindeki menüye gidin"
+		},
+		{
+			"key": "PAST_MESSAGE",
+			"value": "Geçmiş mesaj"
+		},
+		{
+			"key": "NEW_MESSAGE",
+			"value": "Yeni bir mesaj"
+		}
+	]
+}

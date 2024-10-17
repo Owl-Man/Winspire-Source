@@ -1,0 +1,386 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "Spielen"
+		},
+		{
+			"key": "BoostsButton",
+			"value": "Verbesserung"
+		},
+		{
+		
+			"key": "ExitButton",
+			"value": "Ausgang"
+		},
+		{
+			"key": "SettingsTitle",
+			"value": "Einstellungen"
+		},
+
+
+		{
+			"key": "Yes",
+			"value": "Ja"
+		},
+		{
+			"key": "No",
+			"value": "Nein"
+		},
+		
+		
+		{
+			"key": "LevelsTitle",
+			"value": "Wähle eine Stufe"
+		},
+		{
+			"key": "Location 1",
+			"value": "Ort: Fabrik"
+		},
+		{
+			"key": "Location 2",
+			"value": "Ort: Garten"
+		},
+		{
+			"key": "Location 3",
+			"value": "Ort: Schneelabyrinth"
+		},
+
+
+		{
+			"key": "Tools",
+			"value": "Werkzeug"
+		},
+		{
+			"key": "StunGun",
+			"value": "Neues Werkzeug: Taser"
+		},
+		{
+			"key": "BuyStunGun",
+			"value": "Erstellen im 1"
+		},
+		{
+			"key": "WhileConstruction",
+			"value": "Neues Konstruktion: Loop <while ()>"
+		},
+		{
+			"key": "BuyWhileConstruction",
+			"value": "Lerne im 2"
+		},
+		{
+			"key": "Customization",
+			"value": "Anpassung"
+		},
+		{
+			"key": "BuyCustomize",
+			"value": "Erstellen im 3"
+		},
+		{
+			"key": "CustomizationLock",
+			"value": "Schließe die ersten 4 Level ab, um die Win-Anpassung freizuschalten."
+		},
+		
+		
+		{
+			"key": "HelpSetting",
+			"value": "Tooltip-Schaltfläche im Bedienfeld"
+		},
+		{
+			"key": "FirstGuideSetting",
+			"value": "Tutorial zum Level nur 1 Mal zeigen"
+		},
+		{
+			"key": "SoundSetting",
+			"value": "Klang"
+		},
+		
+		
+		{
+			"key": "GuideTitle",
+			"value": "Manual"
+		},
+		{
+			"key": "GuideNavHelp",
+			"value": "Klicken Sie zum Verschieben auf die rechte oder linke Seite des Panels"
+		},
+		
+		
+		{
+			"key": "QuitTitle",
+			"value": "Möchten Sie das Spiel wirklich beenden?"
+		},
+		
+		{
+			"key": "AdditionalPanelTitle",
+			"value": "Zusätzliche Funktionen"
+		},
+		
+		
+		{
+			"key": "DebuggerTitle",
+			"value": "Debugger"
+		},
+		{
+			"key": "EmptyDebug",
+			"value": "Keine Systemmeldungen"
+		},
+		{
+			"key": "Target",
+			"value": "Ziel: Zum Ausgang gelangen"
+		},
+		
+		
+		{
+			"key": "Reward",
+			"value": "Auf Level gefunden:"
+		},
+		{
+			"key": "Unavailable Reward",
+			"value": "Die Belohnung wurde bereits eingesammelt"
+		},
+
+
+		{
+			"key": "Complete",
+			"value": "Level bestanden"
+		},
+
+
+		{
+			"key": "Joystick Command Generation",
+			"value": "Nur Code generieren"
+		},
+		
+		
+		{
+			"key": "Level1",
+			"value": "Level 1"
+		},
+		{
+			"key": "Level2",
+			"value": "Level 2"
+		},
+		{
+			"key": "Level3",
+			"value": "Level 3"
+		},
+		{
+			"key": "Level4",
+			"value": "Level 4"
+		},
+		{
+			"key": "Level5",
+			"value": "Level 5"
+		},
+		{
+			"key": "Level6",
+			"value": "Level 6"
+		},
+		{
+			"key": "Level7",
+			"value": "Level 7"
+		},
+		{
+			"key": "Level8",
+			"value": "Level 8"
+		},
+		{
+			"key": "Level9",
+			"value": "Level 9"
+		},
+		{
+			"key": "Level10",
+			"value": "Level 10"
+		},
+		{
+			"key": "Level11",
+			"value": "Level 11"
+		},
+		{
+			"key": "Level12",
+			"value": "Level 12"
+		},
+		{
+			"key": "Level13",
+			"value": "Level 13"
+		},
+		{
+			"key": "Level14",
+			"value": "Level 14"
+		},
+
+		
+		{
+			"key": "Level1 Guide 1",
+			"value": "Hallo! Mein Name ist Win, kannst du mir helfen, zum Ausgang zu kommen?"
+		},
+		{
+			"key": "Level1 Answer 1",
+			"value": "Gut, aber was tun?"
+		},
+		{
+			"key": "Level1 Guide 2",
+			"value": "Unten befindet sich ein <color=red>Kontrollfeld</color>, wo Sie den Code starten und stoppen können. Außerdem gibt es direkt darunter ein <color=red>Terminal</color>, wo Sie Befehle eingeben müssen."
+		},
+		{
+			"key": "Level1 Answer 2",
+			"value": "Ich sehe, was da zu schreiben?"
+		},
+		{
+			"key": "Level1 Guide 3",
+			"value": "Verwenden Sie die entsprechenden Befehle: <color=red><right></color>, <color=red><left></color>, <color=red><up></color> und <color=red><down></color>, um mich zu kontrollieren. Im Bedienfeld befindet sich eine <color=red>Joystick</color>-Ruftaste, mit der Sie mich auch steuern können, aber ihre Ladung reicht nur für wenige Stufen"
+		},
+		{
+			"key": "Level1 Answer 3",
+			"value": "Verstanden"
+		},
+		{
+			"key": "Level1 Guide 4",
+			"value": "Links über dem Bedienfeld befindet sich eine Schaltfläche zum Öffnen eines Hinweises."
+		},
+		{
+			"key": "Level1 Guide 5",
+			"value": "Etwas tiefer befindet sich der Button für Zusatzfunktionen, über den man zum Menü zurückkehren, den Level neu laden oder das komplette Handbuch öffnen kann"
+		},
+
+		
+		{
+			"key": "Level2 Guide 1",
+			"value": "Wir sind schon auf dem nächsten Level und ich sehe schon den <color=red>Mikrochip</color>! Dies ist eine wertvolle Ressource, mit der Sie mir neue Fähigkeiten hinzufügen können! Aber es gibt Hindernisse..."
+		},
+		{
+			"key": "Level2 Answer 1",
+			"value": "Ich muss vorsichtiger verwalten"
+		},
+		{
+			"key": "Level2 Guide 2",
+			"value": "Neben einfachen Befehlen können Sie Konstruktionen erstellen. Um es zu erstellen, müssen Sie zuerst die Konstruktionsart (<color=red>if</color>) deklarieren. Als nächstes müssen Sie in Klammern <color=red>Baubedingung</color> schreiben: Zuerst wird die Richtung festgelegt (<color=red><right>, <left>, <above></color> oder <color=red><below></color>), dann object(<color=red><obstacle></color>)."
+		},
+		{
+			"key": "Level2 Guide 3",
+			"value": "Nachdem Sie eine Struktur erstellt haben, können Sie Befehle darin schreiben, die nur ausgeführt werden, wenn die Bedingung erfüllt ist. Um das Ende der Konstruktion zu markieren, müssen Sie, nachdem Sie alles Notwendige hineingeschrieben haben, den Befehl <color=red><end></color> schreiben."
+		},
+		{
+			"key": "Level2 Answer 3",
+			"value": "Hm..."
+		},
+		{
+			"key": "Level2 Guide 4",
+			"value": "Beispiel: \n<color=orange>if (above obstacle)\nright\nend</color>"
+		},
+		{
+			"key": "Level2 Answer 4",
+			"value": "Sieht einfach aus, werde ich versuchen"
+		},
+		
+		
+		{
+			"key": "Level3 Guide 1",
+			"value": "Dieser Roboter sieht nicht freundlich aus, es ist am besten, ihm nicht zu nahe zu kommen. Dazu kann in der Baubedingung statt <color=red><obstacle></color> das Objekt <color=red><enemy></color> eingetragen werden"
+		},
+		{
+		
+			"key": "Level3 Guide 2",
+			"value": "Wenn ein feindlicher Roboter den Weg blockiert, kann ich ihn auch mit dem Befehl <color=red><attack></color> angreifen und die Richtung angeben, in die er schlagen soll, oder mit der Angriffstaste auf dem Joystick. Um es zu verwenden, müssen Sie den Elektroschocker im Abschnitt <color=red><Verbesserungen></color> studieren. Beispiel: <color=orange>attack right</color>"
+		},
+
+
+		{
+			"key": "Level4 Guide 1",
+			"value": "Es ist Zeit zu lernen, was Zyklen sind. Sie haben bereits gesehen, wie viele Befehle im Code wiederholt werden und wie der Joystick alles vereinfacht, aber bald endet die Ladung. Die Schleife <color=red><while></color> sollte auch unter <color=red><Enhancements></color> untersucht werden"
+		},
+		{
+			"key": "Level4 Guide 2",
+			"value": "Der Typ <color=red><while></color> ist eine Schleife, die ausgeführt wird, bis die Bedingung erfüllt ist.\nGenau wie beim Konstrukt <color=red>if</color>, nur dieses Konstrukt kann Befehle mehrmals ausführen \nBeispiel #1:\n<color=orange>while (above obstacle)\nright\nend</color>"
+		},
+		{
+			"key": "Level4 Guide 3",
+			"value": "Sie können auch eine Schleife schreiben, die Befehle auf unbestimmte Zeit ausführt. Geben Sie dazu in die Bedingung <color=red><robot enabled></color> ein.\nBeispiel #2:\n<color=orange>while (robot enabled)\nright\nend</color>"
+		},
+
+
+		{
+			"key": "Level5 Guide 1",
+			"value": "In den Baubedingungen können Sie eine negative Bedingung schreiben. Das heißt, statt beispielsweise <color=red><if (left obstacle)></color> können Sie auch <color=red><if (left no obstacle)></color> schreiben. Und der Roboter wird in diesem Fall stattdessen auf das Vorhandensein eines Hindernisses auf der linken Seite prüfen, im Gegenteil, auf dessen Abwesenheit prüfen"
+		},
+		{
+			"key": "Level5 Guide 2",
+			"value": "Sie können auch Konstrukte mit mehreren Bedingungen erstellen, indem Sie das Sonderzeichen <color=red><&></color> verwenden. Du kannst damit unendlich viele Bedingungen kombinieren.\nBeispiel #1:\n<color=orange>if (left obstacle&right no obstacle)\nright\ndown\nend\n</color>"
+		},
+		{
+			"key": "Level5 Guide 3",
+			"value": "Mit diesen Funktionen können Sie flexibel Bedingungen für Strukturen setzen. Oh, und ja, die Batterie des Joysticks ist leer, es ist Zeit, den Code manuell zu schreiben (wenn Sie etwas aus der Vergangenheit vergessen haben, lesen Sie <color=red><Manual></color>)"
+		},
+
+
+		{
+			"key": "Level6 Guide 1",
+			"value": "Wir verließen die Fabrik und kamen in eine Art Garten. Auch hier gibt es feindliche Roboter, kannst du damit umgehen?"
+		},
+		{
+			"key": "Level6 Answer 1",
+			"value": "Natürlich"
+		},
+
+
+		{
+			"key": "Level7 Guide 1",
+			"value": "Wow, hier ist es geräumig. Das Bedienfeld blockiert die gesamte Sicht! Klicken Sie auf die Schaltfläche in der rechten Ecke des Bedienfelds, um das Terminal auszublenden"
+		},
+
+
+		{
+			"key": "Level11 Guide 1",
+			"value": "Die Karte ist gerade größer geworden! Streichen Sie über den Bildschirm, um sich auf der Karte zu bewegen."
+		},
+
+
+
+
+		{
+			"key": "CONDITION_OBJECT_NOT_EXIST",
+			"value": "Fehler gefunden: Objekt <{0}> in Bedingung in Zeile ({1}), existiert nicht. Vielleicht meinten Sie <obstacle> oder <enemy>"
+		},
+
+		{
+			"key": "CONDITION_NOT_CORRECT",
+			"value": "Fehler gefunden: Bedingung in Zeile ({0}) ist fehlerhaft"
+		},
+		{
+			"key": "CONSTRUCTION_END_NOT_FINDED",
+			"value": "Erwartetes <end> nach Konstrukt in Zeile ({0})"
+		},
+		{
+			"key": "CONSTRUCTION_LINK_DOES_NOT_EXIST",
+			"value": "Die Konstruktion auf der Linie ({0}) hat keine algorithmische Verbindung mit der vorherigen Konstruktion"
+		},
+		{
+			"key": "COMMAND_DOES_NOT_EXIST",
+			"value": "Fehler gefunden: Befehl <{0}> in Zeile ({1}) existiert nicht. Wenn Sie Schwierigkeiten haben, schlagen Sie bitte im <Manual> nach"
+		},
+		{
+			"key": "ROBOT_BROKE",
+			"value": "Beim Ausführen des Codes prallte Win gegen ein Hindernis. Sie können ein <if (<direction> obstacle)>-Konstrukt und einen Codeblock darin erstellen, um das Hindernis zu umgehen. Vergessen Sie nicht, <end> am Ende der Struktur hinzuzufügen. Weitere Informationen finden Sie im <Manual>"
+		},
+		{
+			"key": "CODE_COMPLETE_BUT_TARGET_NOT_FINISH",
+			"value": "Das Programm wurde erfolgreich abgeschlossen, aber das Endziel wurde nicht erreicht"
+		},
+		{
+			"key": "CODE_AND_TARGET_COMPLETE",
+			"value": "Programm und Ziel erfolgreich abgeschlossen"
+		},
+		{
+			"key": "COMMAND_OR_CONSTRUCTION_NOT_PURCHASED",
+			"value": "Der Befehl oder das Konstrukt wurde noch nicht untersucht. Rufen Sie das Menü im Tab <Verbesserungen> auf, um dieses Tool kennenzulernen"
+		},
+		{
+			"key": "PAST_MESSAGE",
+			"value": "Vergangene Nachricht"
+		},
+		{
+			"key": "NEW_MESSAGE",
+			"value": "Eine neue Nachricht"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: While Constructions Page
+  m_EditorClassIdentifier: 
+  name: "Konstr\xFCksiyon tipi <while>"
+  content: "<color=red><while></color> t\xFCr\xFC, ko\u015Ful sa\u011Flanana kadar
+    \xE7al\u0131\u015Fan bir d\xF6ng\xFCd\xFCr.\n\xD6rnek 1:\n<color=orange>while
+    (above obstacle)\nright\r\nend</color>\nKomutlar\u0131 s\xFCresiz olarak y\xFCr\xFCtecek
+    bir d\xF6ng\xFC de yazabilirsiniz. Bunu yapmak i\xE7in <color=red><robot enabled></color>
+    ko\u015Fulunu girmeniz gerekir.\n\xD6rnek 2:\n<color=orange>while (robot enabled)\r\nright\r\nend</color>\nBu
+    tasar\u0131m\u0131 kullanmak i\xE7in \"Geli\u015Ftirmeler\" b\xF6l\xFCm\xFCnde
+    incelemeniz gerekir."

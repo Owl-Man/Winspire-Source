@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Constructions Page
+  m_EditorClassIdentifier: 
+  name: "Temel tasar\u0131m konstr\xFCksiyonlari"
+  content: "Bir yap\u0131 olu\u015Fturmak i\xE7in \xF6ncelikle yap\u0131n\u0131n
+    tipini bildirmeniz gerekir. Bu t\xFCr 2 t\xFCr vard\u0131r: <color=red><if></color>
+    ve <color=red><while></color>, <color=red><if></color> t\xFCr\xFC ko\u015Fulu
+    kontrol eder ve komutu yaln\u0131zca bir kez y\xFCr\xFCt\xFCr. Ard\u0131ndan,
+    parantez i\xE7inde <color=red>in\u015Fa ko\u015Fulu</color> yazman\u0131z gerekir:
+    \xF6nce y\xF6n belirlenir (<color=red><right>, <left>, <above></color> veya <color=red><below></color>),
+    ard\u0131ndan nesne\n(<color=red><obstacle></color>). Bir yap\u0131 olu\u015Fturduktan
+    sonra, yaln\u0131zca ko\u015Ful yerine getirildi\u011Finde y\xFCr\xFCt\xFClecek
+    olan komutlar\u0131 i\xE7ine yazabilirsiniz. Yap\u0131n\u0131n sonunu i\u015Faretlemek
+    i\xE7in, ihtiyac\u0131n\u0131z olan her \u015Feyi i\xE7ine yazd\u0131ktan sonra,
+    <color=red><end></color> komutunu yazman\u0131z gerekir.\n\xD6rnek:\n<color=orange>if
+    (above obstacle)\r\nright\r\nend</color>"

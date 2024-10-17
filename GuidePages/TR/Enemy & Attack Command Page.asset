@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Enemy & Attack Command Page
+  m_EditorClassIdentifier: 
+  name: "D\xFC\u015Fmanlar ve sald\u0131r\u0131 ekibi"
+  content: "Baz\u0131 seviyelerde d\xFC\u015Fmanca robotlarla kar\u015F\u0131la\u015Facaks\u0131n\u0131z.
+    Onlara \xE7ok yakla\u015F\u0131rsan, sald\u0131racaklar ve Win'i k\u0131racaklar.
+    Bunu \xF6nlemek i\xE7in, yap\u0131m ko\u015Fulunda <color=red><obstacle></color>
+    yerine <color=red><enemy></color> nesnesini yazman\u0131z gerekir, o zaman Win
+    yakla\u015Fmayacakt\u0131r. Ancak d\xFC\u015Fman yolunuzu kapat\u0131rsa Win
+    kendisine sald\u0131rabilir, bunun i\xE7in <color=red><attack></color> komutunu
+    yazman\u0131z ve bu kelimeden sonra nereye vuraca\u011F\u0131n\u0131z\u0131 yazman\u0131z
+    gerekir. Bu komutu kullanmak i\xE7in, \"Geli\u015Ftirmeler\" b\xF6l\xFCm\xFCnde
+    \u015Fok tabancas\u0131n\u0131 incelemeniz gerekir.\n\xD6rnek:\n<color=orange>attack
+    right</color>"

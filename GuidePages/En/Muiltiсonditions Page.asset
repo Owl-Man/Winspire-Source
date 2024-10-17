@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: "Muilti\u0441onditions Page"
+  m_EditorClassIdentifier: 
+  name: Multi-conditional constructions
+  content: 'If you want to create constructions with several conditions, then it
+    is enough to use the special character <color=red><&></color>. With it, you can
+    combine an infinite number of conditions.
+
+    Example #1:
+
+    <color=orange>if
+    (left obstacle&right no obstacle)
+
+    right
+
+    down
+
+    end
+
+    </color>
+
+    Example
+    #2:
+
+    <color=orange>if (left obstacle&right no obstacle&bottom obstacle&top
+    obstacle)
+
+    right
+
+    end</color>'

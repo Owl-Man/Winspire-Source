@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Basic Commands Page
+  m_EditorClassIdentifier: 
+  name: Temel Komutlar
+  content: "\u015Eu komutlar\u0131 kullan\u0131n: <color=red><right></color>, <color=red><left></color>,
+    <color=red><up></color>, <color=red><down></color> robotu kontrol etmek i\xE7in.
+    Ba\u015Flang\u0131\xE7 \u200B\u200Bseviyelerinde yard\u0131mc\u0131 olarak <color=red>joystick</color>
+    bulunmaktad\u0131r. A\xE7mak i\xE7in kontrol panelindeki ilgili d\xFC\u011Fmeye
+    basman\u0131z gerekir, bu ayn\u0131 zamanda joystick'in kapanmas\u0131 g\xF6revini
+    de g\xF6r\xFCr."

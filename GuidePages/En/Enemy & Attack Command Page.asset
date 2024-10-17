@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Enemy & Attack Command Page
+  m_EditorClassIdentifier: 
+  name: Enemies and attack command
+  content: 'In some levels you will encounter hostile robots. If you get too close
+    to them, they will attack and break Win. To avoid this, you need to write in
+    the construction condition, instead of <color=red><obstacle></color>, the object
+    <color=red><enemy></color>, then Win will not come close. But if the enemy blocks
+    your path, then Win can attack himself, for this you need to write the command
+    <color=red><attack></color> and after this word write the direction where to
+    hit. To use this command, you need to study the stun gun in the "Improvements"
+    section
+
+    Example:
+
+    <color=orange>attack right</color>'

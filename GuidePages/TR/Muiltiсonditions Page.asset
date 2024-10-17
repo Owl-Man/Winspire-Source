@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: "Muilti\u0441onditions Page"
+  m_EditorClassIdentifier: 
+  name: "\xC7ok \u015Fartl\u0131 yap\u0131lar"
+  content: "Birka\xE7 ko\u015Fullu yap\u0131lar olu\u015Fturmak istiyorsan\u0131z
+    <color=red><&></color> \xF6zel karakterini kullanman\u0131z yeterlidir. Bununla
+    sonsuz say\u0131da ko\u015Fulu birle\u015Ftirebilirsiniz.\n\xD6rnek 1:\n<color=orange>if 
+    (left obstacle&right no obstacle)\nright\ndown\nend\n</color>\n\xD6rnek 2:\n<color=orange>if
+    (left obstacle&right no obstacle&below obstacle&above obstacle)\nright\nend</color>"

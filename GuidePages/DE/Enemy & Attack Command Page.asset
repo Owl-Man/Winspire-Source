@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Enemy & Attack Command Page
+  m_EditorClassIdentifier: 
+  name: Feinde und angriffsbefehl
+  content: "In einigen Levels begegnen Sie feindlichen Robotern. Wenn Sie ihnen zu
+    nahe kommen, werden sie Win angreifen und brechen. Um dies zu vermeiden, m\xFCssen
+    Sie in die Baubedingung statt <color=red><obstacle></color> das Objekt <color=red><enemy></color>
+    schreiben, dann kommt Vin nicht in die N\xE4he. Aber wenn der Feind Ihnen den
+    Weg versperrt, kann Win sich selbst angreifen, dazu m\xFCssen Sie den Befehl
+    <color=red><attack></color> schreiben und nach diesem Wort die Richtung schreiben,
+    in die Sie schlagen m\xFCssen. Um diesen Befehl zu verwenden, m\xFCssen Sie den
+    Elektroschocker im Abschnitt \u201EVerbesserungen\u201C studieren\nBeispiel:\n<color=orange>attack
+    right</color>"

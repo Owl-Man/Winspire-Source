@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Constructions Page
+  m_EditorClassIdentifier: 
+  name: Grundlegende Konstruktion
+  content: "Um eine Struktur zu erstellen, m\xFCssen Sie zuerst den Typ der Struktur
+    deklarieren. Es gibt 2 solcher Typen: <color=red><if></color> und <color=red><while></color>.
+    Der Typ <color=red><if></color> \xFCberpr\xFCft die Bedingung und f\xFChrt den
+    Befehl nur einmal aus. Als n\xE4chstes m\xFCssen Sie in Klammern <color=red>Baubedingung</color>
+    schreiben: Zuerst wird die Richtung festgelegt (<color=red><right>, <left>, <above></color>
+    oder <color=red><below></color>), dann das Objekt\n(<color=red><obstacle></color>).
+    Nachdem Sie eine Struktur erstellt haben, k\xF6nnen Sie Befehle darin schreiben,
+    die nur ausgef\xFChrt werden, wenn die Bedingung erf\xFCllt ist. Um das Ende
+    des Konstrukts zu markieren, m\xFCssen Sie, nachdem Sie alles, was Sie brauchen,
+    hineingeschrieben haben, den Befehl <color=red><end></color> schreiben.\nBeispiel:\n<color=orange>if
+    (above obstacle)\r\nright\r\nend</color>"

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Negative Conditions Page
+  m_EditorClassIdentifier: 
+  name: Negative Bedingungen in Konstruktionen
+  content: "In den Baubedingungen k\xF6nnen Sie eine negative Bedingung schreiben.
+    Das hei\xDFt, statt beispielsweise <color=red><if (left obstacle)></color> k\xF6nnen
+    Sie auch <color=red><if (left no obstacle)></color> schreiben. Und der Roboter
+    wird in diesem Fall stattdessen auf das Vorhandensein eines Hindernisses auf
+    der linken Seite pr\xFCfen, im Gegenteil, auf dessen Abwesenheit pr\xFCfen"

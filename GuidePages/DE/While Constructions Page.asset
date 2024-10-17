@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: While Constructions Page
+  m_EditorClassIdentifier: 
+  name: <while> Konstrukttyp
+  content: "Der Typ <color=red><while></color> ist eine Schleife, die ausgef\xFChrt
+    wird, bis die Bedingung erf\xFCllt ist.\nBeispiel 1:\n<color=orange>while (above
+    obstacle)\r\nright\r\nend</color>\nSie k\xF6nnen auch eine Schleife schreiben,
+    die Befehle auf unbestimmte Zeit ausf\xFChrt. Dazu m\xFCssen Sie die Bedingung
+    <color=red><robot enabled></color> eingeben.\nBeispiel #2:\n<color=orange>while
+    (robot enabled)\r\nright\r\nend</color>\nUm dieses Design zu verwenden, m\xFCssen
+    Sie es im Abschnitt \"Verbesserungen\" studieren."

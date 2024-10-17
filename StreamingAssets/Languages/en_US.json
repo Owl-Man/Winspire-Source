@@ -1,0 +1,385 @@
+{
+	"items": [
+		{
+			"key": "PlayButton",
+			"value": "Play"
+		},
+		{
+			"key": "BoostsButton",
+			"value": "Improvements"
+		},
+		{
+		
+			"key": "ExitButton",
+			"value": "Quit"
+		},
+		{
+			"key": "SettingsTitle",
+			"value": "Settings"
+		},
+
+
+		{
+			"key": "Yes",
+			"value": "Yes"
+		},
+		{
+			"key": "No",
+			"value": "No"
+		},
+		
+		
+		{
+			"key": "LevelsTitle",
+			"value": "Choose a level"
+		},
+		{
+			"key": "Location 1",
+			"value": "Location: Factory"
+		},
+		{
+			"key": "Location 2",
+			"value": "Location: Garden"
+		},
+		{
+			"key": "Location 3",
+			"value": "Location: Snow maze"
+		},
+
+
+
+		{
+			"key": "Tools",
+			"value": "Tools"
+		},
+		{
+			"key": "StunGun",
+			"value": "New tool: stun gun"
+		},
+		{
+			"key": "BuyStunGun",
+			"value": "Create for 1"
+		},
+		{
+			"key": "WhileConstruction",
+			"value": "New Construct: <while()> Loop"
+		},
+		{
+			"key": "BuyWhileConstruction",
+			"value": "Learn for 2"
+		},
+		{
+			"key": "Customization",
+			"value": "Customization"
+		},
+		{
+			"key": "BuyCustomize",
+			"value": "Create for 3"
+		},
+		{
+			"key": "CustomizationLock",
+			"value": "Complete the first 4 levels to unlock Win customization."
+		},
+		
+		
+		{
+			"key": "HelpSetting",
+			"value": "Tooltip button in the control panel"
+		},
+		{
+			"key": "FirstGuideSetting",
+			"value": "Show tutorial to level only 1 time"
+		},
+		{
+			"key": "SoundSetting",
+			"value": "Sound"
+		},
+		
+		
+		{
+			"key": "GuideTitle",
+			"value": "Manual"
+		},
+		{
+			"key": "GuideNavHelp",
+			"value": "Click on the right or left side of the panel to move"
+		},
+		
+		
+		{
+			"key": "QuitTitle",
+			"value": "Are you sure you want to exit the game?"
+		},
+		
+		{
+			"key": "AdditionalPanelTitle",
+			"value": "Additional functions"
+		},
+		
+		
+		{
+			"key": "DebuggerTitle",
+			"value": "Debugger"
+		},
+		{
+			"key": "EmptyDebug",
+			"value": "No system messages"
+		},
+		{
+			"key": "Target",
+			"value": "Objective: to get to the exit"
+		},
+		
+		
+		{
+			"key": "Reward",
+			"value": "Found at level:"
+		},
+		{
+			"key": "Unavailable Reward",
+			"value": "Reward already collected"
+		},
+
+
+		{
+			"key": "Joystick Command Generation",
+			"value": "Just generate code"
+		},
+
+
+		{
+			"key": "Complete",
+			"value": "Level completed"
+		},
+		
+		
+		{
+			"key": "Level1",
+			"value": "Level 1"
+		},
+		{
+			"key": "Level2",
+			"value": "Level 2"
+		},
+		{
+			"key": "Level3",
+			"value": "Level 3"
+		},
+		{
+			"key": "Level4",
+			"value": "Level 4"
+		},
+		{
+			"key": "Level5",
+			"value": "Level 5"
+		},
+		{
+			"key": "Level6",
+			"value": "Level 6"
+		},
+		{
+			"key": "Level7",
+			"value": "Level 7"
+		},
+		{
+			"key": "Level8",
+			"value": "Level 8"
+		},
+		{
+			"key": "Level9",
+			"value": "Level 9"
+		},
+		{
+			"key": "Level10",
+			"value": "Level 10"
+		},
+		{
+			"key": "Level11",
+			"value": "Level 11"
+		},
+		{
+			"key": "Level12",
+			"value": "Level 12"
+		},
+		{
+			"key": "Level13",
+			"value": "Level 13"
+		},
+		{
+			"key": "Level14",
+			"value": "Level 14"
+		},
+
+		
+		{
+			"key": "Level1 Guide 1",
+			"value": "Hello! My name is Win, can you help me get to the exit?"
+		},
+		{
+			"key": "Level1 Answer 1",
+			"value": "Okay, but what to do?"
+		},
+		{
+			"key": "Level1 Guide 2",
+			"value": "Below there is a <color=red>control panel</color> where you can start and stop the program. Also, just below there is a <color=red>terminal</color> where you need to enter commands."
+		},
+		{
+			"key": "Level1 Answer 2",
+			"value": "I see, but what to write there?"
+		},
+		{
+			"key": "Level1 Guide 3",
+			"value": "Use the corresponding commands: <color=red><right></color>, <color=red><left></color>, <color=red><up></color> and <color=red><down></color> to control me. There is a <color=red>joystick</color> button in the control panel (CP), with which you can also control me, but its charge is only enough for a few levels"
+		},
+		{
+			"key": "Level1 Answer 3",
+			"value": "Got it"
+		},
+		{
+			"key": "Level1 Guide 4",
+			"value": "On the left above the control panel, there is a button to open a prompt."
+		},
+		{
+			"key": "Level1 Guide 5",
+			"value": "A little lower is the button for additional functions, where you can return to the menu, reload the level or open the full manual"
+		},
+
+		
+		{
+			"key": "Level2 Guide 1",
+			"value": "We are already at the next level and I already see the <color=red>microchip</color>! This is a valuable resource with which you can add new abilities to me! But there are obstacles..."
+		},
+		{
+			"key": "Level2 Answer 1",
+			"value": "I need to control more carefully"
+		},
+		{
+			"key": "Level2 Guide 2",
+			"value": "In addition to simple commands, you can create constructions. To create it, you must first declare the type of construction (<color=red>if</color>). Next, in parentheses, you need to write <color=red>construction condition</color>: first, the direction is set (<color=red><right>, <left>, <above></color> or <color=red><below></color>), then object(<color=red><obstacle></color>)."
+		},
+		{
+			"key": "Level2 Guide 3",
+			"value": "After creating a construction, you can write commands in it, which will be executed only if the condition is met. To mark the end of the construction, after you have written everything you need inside, you need to write the command <color=red><end></color>."
+		},
+		{
+			"key": "Level2 Answer 3",
+			"value": "Hm..."
+		},
+		{
+			"key": "Level2 Guide 4",
+			"value": "Example: \n<color=orange>if (above obstacle)\nright\nend</color>"
+		},
+		{
+			"key": "Level2 Answer 4",
+			"value": "Looks easy, I'll try"
+		},
+		
+		
+		{
+			"key": "Level3 Guide 1",
+			"value": "This robot does not look friendly, it is better not to get close to it. To do this, you can enter the object <color=red><enemy></color> in the construction condition, instead of <color=red><obstacle></color>"
+		},
+		{
+		
+			"key": "Level3 Guide 2",
+			"value": "Also, if an enemy robot is blocking the path, then I can attack it with the <color=red><attack></color> command and then you need to specify the direction where to hit or attack with the attack button on the joystick. To use attack functions, you need to create the stun gun in the section <color=red><<Improvements>></color>. Command example: <color=orange>attack right</color>"
+		},
+
+
+		{
+			"key": "Level4 Guide 1",
+			"value": "It's time to learn what loops are. You have already seen how many commands are repeated in the code and how the joystick simplifies it all, but soon the charge will end. The construction <color=red><while></color> should also be explored in the <color=red><<Improvements>></color> "
+		},
+		{
+			"key": "Level4 Guide 2",
+			"value": "The <color=red><while></color> construction type is a loop that runs until the condition is satisfied.\nSame as with the <color=red>if</color> construction, only this construction can execute commands several times\nExample #1:\n<color=orange>while (above obstacle)\nright\nend</color>"
+		},
+		{
+			"key": "Level4 Guide 3",
+			"value": "You can also write a construction that will execute commands indefinitely. To do this, enter <color=red><robot enabled></color> in the condition.\nExample #2:\n<color=orange>while (robot enabled)\nright\nend</color>"
+		},
+
+
+		{
+			"key": "Level5 Guide 1",
+			"value": "In the conditions of constructions, you can write a negative condition. That is, instead of, for example, <color=red><if (left obstacle)></color>, you can write <color=red><if (left no obstacle)></color>. And the robot, in this case, will instead check for the presence of an obstacle on the left, on the contrary, check for its absence"
+		},
+		{
+			"key": "Level5 Guide 2",
+			"value": "You can also create constructions with multiple conditions using the special character <color=red><&></color>. It can be used to combine an infinite number of conditions.\nExample #1:\n<color=orange>if (left obstacle&right no obstacle)\nright\ndown\nend\n</color>"
+		},
+		{
+			"key": "Level5 Guide 3",
+			"value": "Using these functions, you can flexibly set conditions for constructions. Oh, and yes, the joystick is out of charge, it's time to write the code manually (if you forgot something from the past, refer to <color=red><Manual></color>)"
+		},
+
+
+		{
+			"key": "Level6 Guide 1",
+			"value": "We got out of the factory and got into some kind of garden. There are hostile robots here too, can you handle it?"
+		},
+		{
+			"key": "Level6 Answer 1",
+			"value": "Sure"
+		},
+
+
+		{
+			"key": "Level7 Guide 1",
+			"value": "Wow, how spacious there. The control panel blocks the whole view! Click on the button in the right corner of the CP to hide the terminal"
+		},
+
+
+		{
+			"key": "Level11 Guide 1",
+			"value": "The map just got bigger! Swipe your finger across the screen to navigate the map."
+		},
+
+
+		{
+			"key": "CONDITION_OBJECT_NOT_EXIST",
+			"value": "Error found: object <{0}> in condition on line ({1}), does not exist. Perhaps you meant object <obstacle> or <enemy>"
+		},
+
+		{
+			"key": "CONDITION_NOT_CORRECT",
+			"value": "Error found: condition on line ({0}) is malformed"
+		},
+		{
+			"key": "CONSTRUCTION_END_NOT_FINDED",
+			"value": "Expected <end> after construction on line ({0})"
+		},
+		{
+			"key": "CONSTRUCTION_LINK_DOES_NOT_EXIST",
+			"value": "The construction on the line ({0}) has no algorithmic connection with the previous construction"
+		},
+		{
+			"key": "COMMAND_DOES_NOT_EXIST",
+			"value": "Error found: command <{0}> on line ({1}) does not exist. If you have difficulty, please refer to the <Manual>"
+		},
+		{
+			"key": "ROBOT_BROKE",
+			"value": "When executing the code, Win crashed into an obstacle. You can create an <if (<direction> obstacle)> construction and a code block in it to avoid the obstacle. Don't forget to add <end> at the end of the construction. For more information, please refer to the <Manual>"
+		},
+		{
+			"key": "CODE_COMPLETE_BUT_TARGET_NOT_FINISH",
+			"value": "The program was successfully completed, but the final goal was not achieved"
+		},
+		{
+			"key": "CODE_AND_TARGET_COMPLETE",
+			"value": "Program and goal successfully completed"
+		},
+		{
+			"key": "COMMAND_OR_CONSTRUCTION_NOT_PURCHASED",
+			"value": "Command or construction not learned. Go to the menu in the <Improvements> tab to learn the corresponding tool"
+		},
+		{
+			"key": "PAST_MESSAGE",
+			"value": "Past Message"
+		},
+		{
+			"key": "NEW_MESSAGE",
+			"value": "New message"
+		}
+	]
+}

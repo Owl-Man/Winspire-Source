@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: "Muilti\u0441onditions Page"
+  m_EditorClassIdentifier: 
+  name: Multi-bedingte Konstrukte
+  content: "Wenn Sie Konstruktionen mit mehreren Bedingungen erstellen m\xF6chten,
+    reicht es aus, das Sonderzeichen <color=red><&></color> zu verwenden. Damit k\xF6nnen
+    Sie unendlich viele Bedingungen kombinieren.\nBeispiel 1:\n<color=orange>if (left
+    obstacle&right no obstacle)\r\nright\r\ndown\r\nend\r\n</color>\nBeispiel #2:\n<color=orange>if
+    (left obstacle&right no obstacle&below obstacle&above obstacle)\r\nright\r\nend</color>"

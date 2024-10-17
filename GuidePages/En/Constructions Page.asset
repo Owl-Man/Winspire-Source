@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Constructions Page
+  m_EditorClassIdentifier: 
+  name: Basic concepts of construction
+  content: 'To create a construction, you must first declare the type of the construction.
+    There are 2 such types: <color=red><if></color> and <color=red><while></color>,
+    the type <color=red><if></color> checks the condition and executes the command
+    only once. Next, in parentheses, you need to write <color=red>construction condition</color>:
+    first, the direction is set (<color=red><right>, <left>, <top></color> or <color=red><bottom
+    ></color>), then the object
+
+    (<color=red><obstacle></color>). After creating
+    a construction, you can write commands in it, which will be executed only if
+    the condition is met. To mark the end of the construction, after you have written
+    everything you need inside, you need to write the command <color=red><construction
+    end></color>.
+
+    Example:
+
+    <color=orange>if (top obstacle)
+
+    right
+
+    end</color>'

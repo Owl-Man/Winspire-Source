@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b4dac6e4634c46a13bc142217e6111, type: 3}
+  m_Name: Microchips Page
+  m_EditorClassIdentifier: 
+  name: "Mikro\xE7ipler"
+  content: "Seviyelerde ilerledik\xE7e <color=red>mikro\xE7iplerle</color> kar\u015F\u0131la\u015Facaks\u0131n\u0131z,
+    onlar\u0131 toplamak i\xE7in bir mikro\xE7ip al\u0131p seviyeyi tamamlaman\u0131z
+    gerekiyor. Bir seviyeyi tamamlamak ayr\u0131ca 1 bonus mikro\xE7ip verir. Ara\xE7lar
+    ve Vin \xF6zelle\u015Ftirmesi i\xE7in \"Geli\u015Ftirmeler\" b\xF6l\xFCm\xFCnde
+    kullan\u0131labilirler.\nNot: \xD6zelle\u015Ftirmenin kilidi ancak ilk d\xF6rt
+    seviye tamamland\u0131ktan sonra a\xE7\u0131l\u0131r."
